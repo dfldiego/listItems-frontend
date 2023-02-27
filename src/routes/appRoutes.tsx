@@ -1,7 +1,6 @@
 import { lazy } from "react";
 import { Navigate } from "react-router-dom";
 import { Loadable } from "./Loadable";
-// import { itemsRoutes } from "./itemsRoutes";
 
 const BoxBrowse = Loadable(lazy(() => import("../pages/BoxBrowse/BoxBrowse")));
 const Products = Loadable(lazy(() => import("../pages/Products/Products")));
