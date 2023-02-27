@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Search> should render correctly 1`] = `
+<div>
+  <div
+    class="search_container"
+    data-testid="search-component-test-id"
+  >
+    <div
+      class="search_logo"
+    >
+      <img
+        alt="MercadoLibre_logo"
+        class="search_logo_img"
+        data-testid="meli-logo-test-id"
+        src="Logo_ML.png"
+      />
+    </div>
+    <div
+      class="search_form"
+    >
+      <form
+        aria-label="form"
+        class="search_form_row"
+      >
+        <input
+          autocomplete="off"
+          class="input-text"
+          name="searchText"
+          placeholder="Nunca dejes de buscar"
+          type="text"
+          value="algo"
+        />
+        <button
+          class="search_button"
+          type="submit"
+        >
+          <div>
+            <img
+              alt="Logotipo Buen Sabor"
+              class="search_img"
+              src="ic_Search.png"
+            />
+          </div>
+        </button>
+      </form>
+    </div>
+  </div>
+</div>
+`;

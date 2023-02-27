@@ -1,0 +1,20 @@
+.products_items {
+  background-color: var(--white-moderate);
+  /* SEGUN DISEÑO ORIGINAL */
+  background-color: var(--white);
+  grid-column: 3 / 11;
+  grid-row: 3 / 11;
+}
+.button_pagination {
+  border-radius: 20px;
+  border: 1px solid var(--blue);
+  background: var(--blue);
+  color: #fff;
+  font-weight: bold;
+  padding: 12px 45px;
+  cursor: pointer;
+}
+.disabled {
+  background: var(--grey);
+  border: 1px solid var(--grey);
+}

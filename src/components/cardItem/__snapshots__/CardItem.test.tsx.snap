@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CardItem> should render correctly 1`] = `
+<div>
+  <div
+    class="cardItem_container"
+    data-testid="card-container-test-id"
+  >
+    <img
+      alt="Aperitivo Aperol 750ml"
+      class="cardItem_img"
+      data-testid="img-title-test-id"
+      src="http://http2.mlstatic.com/D_653025-MLA31576823324_072019-O.jpg"
+    />
+    <div
+      class="cardItem_details"
+    >
+      <div>
+        <div
+          class="cardItem_amount_shipping mt16"
+        >
+          <div
+            class="pr1"
+          >
+            <span
+              class="fontSize24"
+            >
+              $ 
+              1298
+            </span>
+          </div>
+          <div>
+            <img
+              alt="free_shipping"
+              class="free_shipping_img"
+              data-testid="img-free-shipping-test-id"
+              src="ic_shipping.png"
+            />
+          </div>
+        </div>
+        <div
+          class="cardItem_title "
+        >
+          <span
+            class="title"
+          >
+            Aperitivo Aperol 750ml
+          </span>
+        </div>
+        <p
+          class="fontSize12"
+        >
+          QUIRINO BEBIDAS
+        </p>
+      </div>
+      <div
+        class="mt16 px32 cardItem_sellerState"
+      >
+        <span
+          class="fontSize12"
+        >
+          Capital Federal
+        </span>
+      </div>
+    </div>
+  </div>
+  <div
+    class="cardItem_border"
+  />
+</div>
+`;

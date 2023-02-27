@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Breadcrumbs> should render correctly 1`] = `
+<div>
+  <ul
+    class="breadcrumbs_ul"
+    data-testid="breadcrumbs-component-test-id"
+  >
+    <li
+      class="breadcrumbs_li"
+    >
+      <span
+        class="breadcrumbs_item"
+      >
+        comida
+      </span>
+    </li>
+    <li
+      class="breadcrumbs_li"
+    >
+      <span
+        class="breadcrumbs_item_bold"
+      >
+        postre
+      </span>
+    </li>
+  </ul>
+</div>
+`;

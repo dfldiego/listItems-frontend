@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Loading> should render correctly 1`] = `
+<div>
+  <div
+    class="spinner mt5 loadingGrid"
+    data-testid="loading-test-id"
+  />
+</div>
+`;
