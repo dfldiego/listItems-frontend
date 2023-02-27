@@ -12,6 +12,7 @@
 - npm i query-string
 - npm i axios
 - npm i unimported --save-dev
+- npm i react-helmet-async
 
 ## Run application
 
